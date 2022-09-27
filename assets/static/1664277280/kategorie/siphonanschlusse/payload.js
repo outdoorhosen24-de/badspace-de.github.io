@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/siphonanschlusse", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ueberwurfmutter-mit-dichtung-389-mm-g-1-1-4-verchromt-sonstige-3554268-1.jpg":"\u002Fassets\u002Fimages\u002Fueberwurfmutter-mit-dichtung-389-mm-g-1-1-4-verchromt-sonstige-3554268-1.webp"}}],fetch:{},mutations:void 0});
