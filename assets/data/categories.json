@@ -1,107 +1,303 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "duschzubehör",
+        "name": "Duschzubehör",
+        "slug": "duschzubehor",
+        "productCategory": "Duschzubehör",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "duschschläuche & brauseschläuche",
+        "name": "Duschschläuche & Brauseschläuche",
+        "slug": "duschschlauche-brauseschlauche",
+        "productCategory": "Duschschläuche & Brauseschläuche",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "waschbeckenarmaturen",
+        "name": "Waschbeckenarmaturen",
+        "slug": "waschbeckenarmaturen",
+        "productCategory": "Waschbeckenarmaturen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "brausesets",
+        "name": "Brausesets",
+        "slug": "brausesets",
+        "productCategory": "Brausesets",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "wannenarmaturen",
+        "name": "Wannenarmaturen",
+        "slug": "wannenarmaturen",
+        "productCategory": "Wannenarmaturen",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "ersatzteile für armaturen",
+        "name": "Ersatzteile für Armaturen",
+        "slug": "ersatzteile-fur-armaturen",
+        "productCategory": "Ersatzteile für Armaturen",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "kartuschen",
+        "name": "Kartuschen",
+        "slug": "kartuschen",
+        "productCategory": "Kartuschen",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "siphons",
+        "name": "Siphons",
+        "slug": "siphons",
+        "productCategory": "Siphons",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "siphons für dusch-abläufe",
+        "name": "Siphons für Dusch-Abläufe",
+        "slug": "siphons-fur-dusch-ablaufe",
+        "productCategory": "Siphons für Dusch-Abläufe",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "handbrausen",
+        "name": "Handbrausen",
+        "slug": "handbrausen",
+        "productCategory": "Handbrausen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "duscharmaturen",
+        "name": "Duscharmaturen",
+        "slug": "duscharmaturen",
+        "productCategory": "Duscharmaturen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "bidet armaturen",
+        "name": "Bidet Armaturen",
+        "slug": "bidet-armaturen",
+        "productCategory": "Bidet Armaturen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "zubehör für armaturen",
+        "name": "Zubehör für Armaturen",
+        "slug": "zubehor-fur-armaturen",
+        "productCategory": "Zubehör für Armaturen",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "weiteres zubehör für armaturen",
+        "name": "Weiteres Zubehör für Armaturen",
+        "slug": "weiteres-zubehor-fur-armaturen",
+        "productCategory": "Weiteres Zubehör für Armaturen",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "weiteres duschzubehör",
+        "name": "Weiteres Duschzubehör",
+        "slug": "weiteres-duschzubehor",
+        "productCategory": "Weiteres Duschzubehör",
+        "subCategories": []
+    },
+    {
+        "key": "kopfbrausen",
+        "name": "Kopfbrausen",
+        "slug": "kopfbrausen",
+        "productCategory": "Kopfbrausen",
+        "subCategories": []
+    },
+    {
+        "key": "thermostate",
+        "name": "Thermostate",
+        "slug": "thermostate",
+        "productCategory": "Thermostate",
+        "subCategories": []
+    },
+    {
+        "key": "brausestangen",
+        "name": "Brausestangen",
+        "slug": "brausestangen",
+        "productCategory": "Brausestangen",
+        "subCategories": []
+    },
+    {
+        "key": "siphons für waschbecken",
+        "name": "Siphons für Waschbecken",
+        "slug": "siphons-fur-waschbecken",
+        "productCategory": "Siphons für Waschbecken",
+        "subCategories": []
+    },
+    {
+        "key": "duschpaneele & duschsäulen",
+        "name": "Duschpaneele & Duschsäulen",
+        "slug": "duschpaneele-duschsaulen",
+        "productCategory": "Duschpaneele & Duschsäulen",
+        "subCategories": []
+    },
+    {
+        "key": "sanitärwerkzeuge",
+        "name": "Sanitärwerkzeuge",
+        "slug": "sanitarwerkzeuge",
+        "productCategory": "Sanitärwerkzeuge",
+        "subCategories": []
+    },
+    {
+        "key": "rohrreinigung",
+        "name": "Rohrreinigung",
+        "slug": "rohrreinigung",
+        "productCategory": "Rohrreinigung",
+        "subCategories": []
+    },
+    {
+        "key": "rohrreinigungsspiralen",
+        "name": "Rohrreinigungsspiralen",
+        "slug": "rohrreinigungsspiralen",
+        "productCategory": "Rohrreinigungsspiralen",
+        "subCategories": []
+    },
+    {
+        "key": "siphon-zubehör",
+        "name": "Siphon-Zubehör",
+        "slug": "siphon-zubehor",
+        "productCategory": "Siphon-Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "siphondichtungen & siphongummis",
+        "name": "Siphondichtungen & Siphongummis",
+        "slug": "siphondichtungen-siphongummis",
+        "productCategory": "Siphondichtungen & Siphongummis",
+        "subCategories": []
+    },
+    {
+        "key": "siphonverlängerungen",
+        "name": "Siphonverlängerungen",
+        "slug": "siphonverlangerungen",
+        "productCategory": "Siphonverlängerungen",
+        "subCategories": []
+    },
+    {
+        "key": "siphons für spüle",
+        "name": "Siphons für Spüle",
+        "slug": "siphons-fur-spule",
+        "productCategory": "Siphons für Spüle",
+        "subCategories": []
+    },
+    {
+        "key": "sanitärzubehör",
+        "name": "Sanitärzubehör",
+        "slug": "sanitarzubehor",
+        "productCategory": "Sanitärzubehör",
+        "subCategories": []
+    },
+    {
+        "key": "schlauchverbinder",
+        "name": "Schlauchverbinder",
+        "slug": "schlauchverbinder",
+        "productCategory": "Schlauchverbinder",
+        "subCategories": []
+    },
+    {
+        "key": "pömpel",
+        "name": "Pömpel",
+        "slug": "pompel",
+        "productCategory": "Pömpel",
+        "subCategories": []
+    },
+    {
+        "key": "dichtmittel",
+        "name": "Dichtmittel",
+        "slug": "dichtmittel",
+        "productCategory": "Dichtmittel",
+        "subCategories": []
+    },
+    {
+        "key": "teflonbänder & fäden",
+        "name": "Teflonbänder & Fäden",
+        "slug": "teflonbander-faden",
+        "productCategory": "Teflonbänder & Fäden",
+        "subCategories": []
+    },
+    {
+        "key": "siphons für badewannen-abläufe",
+        "name": "Siphons für Badewannen-Abläufe",
+        "slug": "siphons-fur-badewannen-ablaufe",
+        "productCategory": "Siphons für Badewannen-Abläufe",
+        "subCategories": []
+    },
+    {
+        "key": "schallschutz",
+        "name": "Schallschutz",
+        "slug": "schallschutz",
+        "productCategory": "Schallschutz",
+        "subCategories": []
+    },
+    {
+        "key": "excentersiphons",
+        "name": "Excentersiphons",
+        "slug": "excentersiphons",
+        "productCategory": "Excentersiphons",
+        "subCategories": []
+    },
+    {
+        "key": "ausgussbecken",
+        "name": "Ausgussbecken",
+        "slug": "ausgussbecken",
+        "productCategory": "Ausgussbecken",
+        "subCategories": []
+    },
+    {
+        "key": "dichtpaste",
+        "name": "Dichtpaste",
+        "slug": "dichtpaste",
+        "productCategory": "Dichtpaste",
+        "subCategories": []
+    },
+    {
+        "key": "siphonbögen",
+        "name": "Siphonbögen",
+        "slug": "siphonbogen",
+        "productCategory": "Siphonbögen",
+        "subCategories": []
+    },
+    {
+        "key": "siphonanschlüsse",
+        "name": "Siphonanschlüsse",
+        "slug": "siphonanschlusse",
+        "productCategory": "Siphonanschlüsse",
+        "subCategories": []
+    },
+    {
+        "key": "sanitärhanf",
+        "name": "Sanitärhanf",
+        "slug": "sanitarhanf",
+        "productCategory": "Sanitärhanf",
+        "subCategories": []
+    },
+    {
+        "key": "siphonabdeckungen",
+        "name": "Siphonabdeckungen",
+        "slug": "siphonabdeckungen",
+        "productCategory": "Siphonabdeckungen",
+        "subCategories": []
+    },
+    {
+        "key": "quetschverbindungen",
+        "name": "Quetschverbindungen",
+        "slug": "quetschverbindungen",
+        "productCategory": "Quetschverbindungen",
+        "subCategories": []
+    },
+    {
+        "key": "abdeckkappen",
+        "name": "Abdeckkappen",
+        "slug": "abdeckkappen",
+        "productCategory": "Abdeckkappen",
         "subCategories": []
     }
 ]

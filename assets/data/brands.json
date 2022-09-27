@@ -1,17 +1,38 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "hansgrohe",
+        "name": "Hansgrohe",
+        "slug": "hansgrohe",
+        "productCategory": "Hansgrohe",
+        "localThumb": "/assets/images/hersteller/hansgrohe.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "grohe",
+        "name": "Grohe",
+        "slug": "grohe",
+        "productCategory": "Grohe",
+        "localThumb": "/assets/images/hersteller/grohe.webp"
+    },
+    {
+        "key": "keuco",
+        "name": "Keuco",
+        "slug": "keuco",
+        "productCategory": "Keuco",
+        "localThumb": "/assets/images/hersteller/keuco.webp"
+    },
+    {
+        "key": "duravit",
+        "name": "Duravit",
+        "slug": "duravit",
+        "productCategory": "Duravit",
+        "localThumb": "/assets/images/hersteller/duravit.webp"
+    },
+    {
+        "key": "baliv",
+        "name": "baliv",
+        "slug": "baliv",
+        "productCategory": "baliv",
+        "localThumb": "/assets/images/hersteller/baliv.webp"
     },
     {
         "key": "sonstige",
@@ -21,11 +42,116 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "ideal standard",
+        "name": "Ideal Standard",
+        "slug": "ideal-standard",
+        "productCategory": "Ideal Standard",
+        "localThumb": "/assets/images/hersteller/ideal-standard.webp"
+    },
+    {
+        "key": "schulte",
+        "name": "Schulte",
+        "slug": "schulte",
+        "productCategory": "Schulte",
+        "localThumb": "/assets/images/hersteller/schulte.webp"
+    },
+    {
+        "key": "eisl",
+        "name": "Eisl",
+        "slug": "eisl",
+        "productCategory": "Eisl",
+        "localThumb": "/assets/images/hersteller/eisl.webp"
+    },
+    {
+        "key": "schütte",
+        "name": "Schütte",
+        "slug": "schuette",
+        "productCategory": "Schütte",
+        "localThumb": "/assets/images/hersteller/schuette.webp"
+    },
+    {
+        "key": "sanotechnik",
+        "name": "Sanotechnik",
+        "slug": "sanotechnik",
+        "productCategory": "Sanotechnik",
+        "localThumb": "/assets/images/hersteller/sanotechnik.webp"
+    },
+    {
+        "key": "aquasu",
+        "name": "AquaSu",
+        "slug": "aquasu",
+        "productCategory": "AquaSu",
+        "localThumb": "/assets/images/hersteller/aquasu.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "nilfisk",
+        "name": "Nilfisk",
+        "slug": "nilfisk",
+        "productCategory": "Nilfisk",
+        "localThumb": "/assets/images/hersteller/nilfisk.webp"
+    },
+    {
+        "key": "viega",
+        "name": "Viega",
+        "slug": "viega",
+        "productCategory": "Viega",
+        "localThumb": "/assets/images/hersteller/viega.webp"
+    },
+    {
+        "key": "ottofond",
+        "name": "Ottofond",
+        "slug": "ottofond",
+        "productCategory": "Ottofond",
+        "localThumb": "/assets/images/hersteller/ottofond.webp"
+    },
+    {
+        "key": "breuer",
+        "name": "Breuer",
+        "slug": "breuer",
+        "productCategory": "Breuer",
+        "localThumb": "/assets/images/hersteller/breuer.webp"
+    },
+    {
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
+    },
+    {
+        "key": "tece",
+        "name": "Tece",
+        "slug": "tece",
+        "productCategory": "Tece",
+        "localThumb": "/assets/images/hersteller/tece.webp"
+    },
+    {
+        "key": "pyramis",
+        "name": "Pyramis",
+        "slug": "pyramis",
+        "productCategory": "Pyramis",
+        "localThumb": "/assets/images/hersteller/pyramis.webp"
+    },
+    {
+        "key": "sanitop-wingenroth",
+        "name": "Sanitop-Wingenroth",
+        "slug": "sanitop-wingenroth",
+        "productCategory": "Sanitop-Wingenroth",
+        "localThumb": "/assets/images/hersteller/sanitop-wingenroth.webp"
+    },
+    {
+        "key": "rothenberger industrial",
+        "name": "Rothenberger Industrial",
+        "slug": "rothenberger-industrial",
+        "productCategory": "Rothenberger Industrial",
+        "localThumb": "/assets/images/hersteller/rothenberger-industrial.webp"
     },
     {
         "key": "obi",
@@ -35,52 +161,31 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "verosan",
+        "name": "Verosan",
+        "slug": "verosan",
+        "productCategory": "Verosan",
+        "localThumb": "/assets/images/hersteller/verosan.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "aurlane",
+        "name": "Aurlane",
+        "slug": "aurlane",
+        "productCategory": "Aurlane",
+        "localThumb": "/assets/images/hersteller/aurlane.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "fackelmann",
+        "name": "Fackelmann",
+        "slug": "fackelmann",
+        "productCategory": "Fackelmann",
+        "localThumb": "/assets/images/hersteller/fackelmann.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "kirchhoff",
+        "name": "Kirchhoff",
+        "slug": "kirchhoff",
+        "productCategory": "Kirchhoff",
+        "localThumb": "/assets/images/hersteller/kirchhoff.webp"
     }
 ]
