@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "badspace.de",
+    "hostname": "https://www.badspace.de/",
+    "email": "badspace.desurrealnetworks.io",
+    "organization": "badspace.de",
+    "logoText": "Badspace.de",
+    "title": "Badarmaturen",
+    "subline": "Der Online Shop f\u00fcr Badarmaturen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7659592",
+        "1476084",
+        "7929391",
+        "8767147",
+        "5269279",
+        "5415963"
+    ],
+    "winnerProducts": [
+        "6060016",
+        "8731721",
+        "7467707"
+    ],
+    "featuredCategories": [
+        "Siphons f\u00fcr Sp\u00fcle",
+        "Siphons f\u00fcr Waschbecken",
+        "Ausgussbecken",
+        "Siphons",
+        "P\u00f6mpel",
+        "Siphonverl\u00e4ngerungen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badarmaturen",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Badarmaturen-Shop ist ein gro\u00dfer Online-Shop, der alles rund um das Thema Badarmaturen anbietet. Hier finden Sie eine gro\u00dfe Auswahl an verschiedenen Badarmaturen, die Sie f\u00fcr Ihr Badezimmer ben\u00f6tigen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Badarmaturen-Shop: Alles f\u00fcr Ihr Badezimmer!",
+            "metaDescription": "Badarmaturen Shop - Hier findest du alles, was du f\u00fcr dein Bad brauchst! Armaturen, Duschk\u00f6pfe, Brausen und mehr.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Badarmaturen: Die h\u00e4ufigsten Probleme und L\u00f6sungen",
+                    "text": "Badarmaturen sind ein wesentlicher Bestandteil jedes Badezimmers. Sie dienen zur Aufnahme und Ablauf von Wasser und sind somit f\u00fcr die Funktionalit\u00e4t des Badezimmers unerl\u00e4sslich. Es gibt verschiedene Arten von Badarmaturen, die f\u00fcr verschiedene Zwecke entwickelt wurden. Die h\u00e4ufigsten Arten von Badarmaturen sind Wasserh\u00e4hne, Duscharmaturen, Badewannenarmaturen und WC-Armaturen.\n\nWasserh\u00e4hne sind die am h\u00e4ufigsten verwendeten Badarmaturen. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Wasserh\u00e4hne gibt es in verschiedenen Ausf\u00fchrungen, die f\u00fcr unterschiedliche Zwecke entwickelt wurden. Die h\u00e4ufigsten Arten von Wasserh\u00e4hnen sind K\u00fcchenarmaturen, Badezimmerarmaturen und Waschbeckenarmaturen.\n\nDuscharmaturen sind speziell f\u00fcr die Verwendung in Duschen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Duscharmaturen gibt es in verschiedenen Ausf\u00fchrungen, die f\u00fcr unterschiedliche Zwecke entwickelt wurden. Die h\u00e4ufigsten Arten von Duscharmaturen sind Duschh\u00e4hne, Duschventile und Duschk\u00f6pfe.\n\nBadewannenarmaturen sind speziell f\u00fcr die Verwendung in Badewannen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Badewannenarmaturen gibt es in verschiedenen Ausf\u00fchrungen, die f\u00fcr unterschiedliche"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badarmaturen Shop",
+            "metaDescription": "In unserem Shop findest du eine gro\u00dfe Auswahl an Badarmaturen. Von klassischen Designs bis hin zu modernen Armaturen ist f\u00fcr jeden Geschmack etwas dabei.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Badarmaturen manufacturer",
+            "metaDescription": "Badarmaturen-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Badarmaturen f\u00fcr jeden Geschmack.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Badarmaturen - hochwertige Badarmaturen f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Auswahl an Badarmaturen. Finde die perfekte $KATEGORIE f\u00fcr dein Badezimmer.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Badarmaturen $KATEGORIE \u2013 Deine Auswahl bei uns!",
+        "defaultMetaDescription": "Badarmaturen in h\u00f6chster Qualit\u00e4t. Finden Sie die passende Armatur f\u00fcr Ihr Bad. $KATEGORIE",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Badarmaturen von $HERSTELLER - hochwertige Sanit\u00e4rprodukte f\u00fcr Ihr Zuhause. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Badarmaturen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Badarmaturen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Badarmaturen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
