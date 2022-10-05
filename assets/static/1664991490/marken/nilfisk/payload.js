@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/nilfisk", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nilfisk-rohrreinigungs-set-15-m-nilfisk-3720299-1.jpg":"\u002Fassets\u002Fimages\u002Fnilfisk-rohrreinigungs-set-15-m-nilfisk-3720299-1.webp"}}],fetch:{},mutations:void 0});

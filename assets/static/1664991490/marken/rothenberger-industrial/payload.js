@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/rothenberger-industrial", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rohrreinigungsspirale-mit-kralle-10-m-rothenberger-industrial-5808381-1.jpg":"\u002Fassets\u002Fimages\u002Frohrreinigungsspirale-mit-kralle-10-m-rothenberger-industrial-5808381-1.webp"}}],fetch:{},mutations:void 0});

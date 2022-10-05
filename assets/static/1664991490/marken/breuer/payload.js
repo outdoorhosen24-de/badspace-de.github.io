@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/breuer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/breuer-duscharmatur-aquamaxx-340-mit-thermostat-runde-kopfbrause-breuer-7685563-1.jpg":"\u002Fassets\u002Fimages\u002Fbreuer-duscharmatur-aquamaxx-340-mit-thermostat-runde-kopfbrause-breuer-7685563-1.webp"}}],fetch:{},mutations:void 0});
