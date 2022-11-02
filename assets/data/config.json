@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "badspace.de",
     "hostname": "https://www.badspace.de/",
     "email": "badspace.desurrealnetworks.io",
     "organization": "badspace.de",
     "logoText": "Badspace.de",
     "title": "Badarmaturen",
-    "subline": "Der Online Shop f\u00fcr Badarmaturen",
+    "subline": "Der Online Shop für Badarmaturen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "7467707"
     ],
     "featuredCategories": [
-        "Siphons f\u00fcr Sp\u00fcle",
-        "Siphons f\u00fcr Waschbecken",
+        "Siphons für Spüle",
+        "Siphons für Waschbecken",
         "Ausgussbecken",
         "Siphons",
-        "P\u00f6mpel",
-        "Siphonverl\u00e4ngerungen"
+        "Pömpel",
+        "Siphonverlängerungen"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badarmaturen",
-        "featureText": "Die Badarmaturen-Shop ist ein gro\u00dfer Online-Shop, der alles rund um das Thema Badarmaturen anbietet. Hier finden Sie eine gro\u00dfe Auswahl an verschiedenen Badarmaturen, die Sie f\u00fcr Ihr Badezimmer ben\u00f6tigen.",
+        "featureText": "Die Badarmaturen-Shop ist ein großer Online-Shop, der alles rund um das Thema Badarmaturen anbietet. Hier finden Sie eine große Auswahl an verschiedenen Badarmaturen, die Sie für Ihr Badezimmer benötigen.",
         "index": {
-            "title": "Badarmaturen-Shop: Alles f\u00fcr Ihr Badezimmer!",
-            "metaDescription": "Badarmaturen Shop - Hier findest du alles, was du f\u00fcr dein Bad brauchst! Armaturen, Duschk\u00f6pfe, Brausen und mehr.",
+            "title": "Badarmaturen-Shop: Alles für Ihr Badezimmer!",
+            "metaDescription": "Badarmaturen Shop - Hier findest du alles, was du für dein Bad brauchst! Armaturen, Duschköpfe, Brausen und mehr.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Badarmaturen: Die h\u00e4ufigsten Probleme und L\u00f6sungen",
-                    "text": "Badarmaturen sind ein wesentlicher Bestandteil jedes Badezimmers. Sie dienen zur Aufnahme und Ablauf von Wasser und sind somit f\u00fcr die Funktionalit\u00e4t des Badezimmers unerl\u00e4sslich. Es gibt verschiedene Arten von Badarmaturen, die f\u00fcr verschiedene Zwecke entwickelt wurden. Die h\u00e4ufigsten Arten von Badarmaturen sind Wasserh\u00e4hne, Duscharmaturen, Badewannenarmaturen und WC-Armaturen.\n\nWasserh\u00e4hne sind die am h\u00e4ufigsten verwendeten Badarmaturen. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Wasserh\u00e4hne gibt es in verschiedenen Ausf\u00fchrungen, die f\u00fcr unterschiedliche Zwecke entwickelt wurden. Die h\u00e4ufigsten Arten von Wasserh\u00e4hnen sind K\u00fcchenarmaturen, Badezimmerarmaturen und Waschbeckenarmaturen.\n\nDuscharmaturen sind speziell f\u00fcr die Verwendung in Duschen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Duscharmaturen gibt es in verschiedenen Ausf\u00fchrungen, die f\u00fcr unterschiedliche Zwecke entwickelt wurden. Die h\u00e4ufigsten Arten von Duscharmaturen sind Duschh\u00e4hne, Duschventile und Duschk\u00f6pfe.\n\nBadewannenarmaturen sind speziell f\u00fcr die Verwendung in Badewannen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Badewannenarmaturen gibt es in verschiedenen Ausf\u00fchrungen, die f\u00fcr unterschiedliche"
+                    "title": "Badarmaturen: Die häufigsten Probleme und Lösungen",
+                    "text": "Badarmaturen sind ein wesentlicher Bestandteil jedes Badezimmers. Sie dienen zur Aufnahme und Ablauf von Wasser und sind somit für die Funktionalität des Badezimmers unerlässlich. Es gibt verschiedene Arten von Badarmaturen, die für verschiedene Zwecke entwickelt wurden. Die häufigsten Arten von Badarmaturen sind Wasserhähne, Duscharmaturen, Badewannenarmaturen und WC-Armaturen.\n\nWasserhähne sind die am häufigsten verwendeten Badarmaturen. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Wasserhähne gibt es in verschiedenen Ausführungen, die für unterschiedliche Zwecke entwickelt wurden. Die häufigsten Arten von Wasserhähnen sind Küchenarmaturen, Badezimmerarmaturen und Waschbeckenarmaturen.\n\nDuscharmaturen sind speziell für die Verwendung in Duschen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Duscharmaturen gibt es in verschiedenen Ausführungen, die für unterschiedliche Zwecke entwickelt wurden. Die häufigsten Arten von Duscharmaturen sind Duschhähne, Duschventile und Duschköpfe.\n\nBadewannenarmaturen sind speziell für die Verwendung in Badewannen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Badewannenarmaturen gibt es in verschiedenen Ausführungen, die für unterschiedliche"
                 }
             ]
         },
         "shop": {
             "title": "Badarmaturen Shop",
-            "metaDescription": "In unserem Shop findest du eine gro\u00dfe Auswahl an Badarmaturen. Von klassischen Designs bis hin zu modernen Armaturen ist f\u00fcr jeden Geschmack etwas dabei.",
+            "metaDescription": "In unserem Shop findest du eine große Auswahl an Badarmaturen. Von klassischen Designs bis hin zu modernen Armaturen ist für jeden Geschmack etwas dabei.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Badarmaturen manufacturer",
-            "metaDescription": "Badarmaturen-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Badarmaturen f\u00fcr jeden Geschmack.",
+            "metaDescription": "Badarmaturen-Hersteller bietet eine große Auswahl an hochwertigen Badarmaturen für jeden Geschmack.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Badarmaturen - hochwertige Badarmaturen f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Auswahl an Badarmaturen. Finde die perfekte $KATEGORIE f\u00fcr dein Badezimmer.",
+        "defaultTitle": "$PRODUKT Badarmaturen - hochwertige Badarmaturen für Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Auswahl an Badarmaturen. Finde die perfekte $KATEGORIE für dein Badezimmer.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Badarmaturen $KATEGORIE \u2013 Deine Auswahl bei uns!",
-        "defaultMetaDescription": "Badarmaturen in h\u00f6chster Qualit\u00e4t. Finden Sie die passende Armatur f\u00fcr Ihr Bad. $KATEGORIE",
+        "defaultTitle": "Badarmaturen $KATEGORIE – Deine Auswahl bei uns!",
+        "defaultMetaDescription": "Badarmaturen in höchster Qualität. Finden Sie die passende Armatur für Ihr Bad. $KATEGORIE",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Badarmaturen von $HERSTELLER - hochwertige Sanit\u00e4rprodukte f\u00fcr Ihr Zuhause. Jetzt online bestellen!",
+        "defaultMetaDescription": "Badarmaturen von $HERSTELLER - hochwertige Sanitärprodukte für Ihr Zuhause. Jetzt online bestellen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
