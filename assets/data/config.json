@@ -51,12 +51,15 @@
             "title": "Badarmaturen-Shop: Alles für Ihr Badezimmer!",
             "metaDescription": "Badarmaturen Shop - Hier findest du alles, was du für dein Bad brauchst! Armaturen, Duschköpfe, Brausen und mehr.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Badarmaturen: Die häufigsten Probleme und Lösungen",
-                    "text": "Badarmaturen sind ein wesentlicher Bestandteil jedes Badezimmers. Sie dienen zur Aufnahme und Ablauf von Wasser und sind somit für die Funktionalität des Badezimmers unerlässlich. Es gibt verschiedene Arten von Badarmaturen, die für verschiedene Zwecke entwickelt wurden. Die häufigsten Arten von Badarmaturen sind Wasserhähne, Duscharmaturen, Badewannenarmaturen und WC-Armaturen.\n\nWasserhähne sind die am häufigsten verwendeten Badarmaturen. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Wasserhähne gibt es in verschiedenen Ausführungen, die für unterschiedliche Zwecke entwickelt wurden. Die häufigsten Arten von Wasserhähnen sind Küchenarmaturen, Badezimmerarmaturen und Waschbeckenarmaturen.\n\nDuscharmaturen sind speziell für die Verwendung in Duschen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Duscharmaturen gibt es in verschiedenen Ausführungen, die für unterschiedliche Zwecke entwickelt wurden. Die häufigsten Arten von Duscharmaturen sind Duschhähne, Duschventile und Duschköpfe.\n\nBadewannenarmaturen sind speziell für die Verwendung in Badewannen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Badewannenarmaturen gibt es in verschiedenen Ausführungen, die für unterschiedliche"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Badarmaturen: Die häufigsten Probleme und Lösungen",
+                        "text": "Badarmaturen sind ein wesentlicher Bestandteil jedes Badezimmers. Sie dienen zur Aufnahme und Ablauf von Wasser und sind somit für die Funktionalität des Badezimmers unerlässlich. Es gibt verschiedene Arten von Badarmaturen, die für verschiedene Zwecke entwickelt wurden. Die häufigsten Arten von Badarmaturen sind Wasserhähne, Duscharmaturen, Badewannenarmaturen und WC-Armaturen.\n\nWasserhähne sind die am häufigsten verwendeten Badarmaturen. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Wasserhähne gibt es in verschiedenen Ausführungen, die für unterschiedliche Zwecke entwickelt wurden. Die häufigsten Arten von Wasserhähnen sind Küchenarmaturen, Badezimmerarmaturen und Waschbeckenarmaturen.\n\nDuscharmaturen sind speziell für die Verwendung in Duschen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Duscharmaturen gibt es in verschiedenen Ausführungen, die für unterschiedliche Zwecke entwickelt wurden. Die häufigsten Arten von Duscharmaturen sind Duschhähne, Duschventile und Duschköpfe.\n\nBadewannenarmaturen sind speziell für die Verwendung in Badewannen entwickelt. Sie dienen zur Regulierung des Wasserflusses und der Wassertemperatur. Badewannenarmaturen gibt es in verschiedenen Ausführungen, die für unterschiedliche"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Badarmaturen Shop",
