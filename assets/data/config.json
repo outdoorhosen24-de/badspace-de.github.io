@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "badspace.de",
     "hostname": "https://www.badspace.de/",
     "email": "badspace.de@surrealnetworks.io",
     "organization": "badspace.de",
     "logoText": "Badspace.de",
     "title": "Badarmaturen",
-    "subline": "Der Online Shop für Badarmaturen",
+    "subline": "Der Online Shop für Badarmaturen und Zubehör",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Badarmaturen",
-        "featureText": "Die Badarmaturen-Shop ist ein großer Online-Shop, der alles rund um das Thema Badarmaturen anbietet. Hier finden Sie eine große Auswahl an verschiedenen Badarmaturen, die Sie für Ihr Badezimmer benötigen.",
+        "featureText": "Der Badarmaturen-Shop ist ein großer Internetshop, der alles rund um das Thema Badarmaturen bietet. Hier finden Sie eine große Auswahl an verschiedenen Badarmaturen, die Sie für Ihr Badezimmer benötigen. Alle Produkte, die wir Ihnen anbieten, stammen von namhaften Herstellern. Wir bieten nur qualitativ hochwertige Produkte an. Die Lieferung wird durch unsere Partner wie Obi schnell durchgeführt. Wir bieten Top-Preise. Diese sind im Internet kaum zu unterbieten. Es ist uns eine Freude, dass Sie den Weg zu uns gefunden haben.",
         "index": {
-            "title": "Badarmaturen-Shop: Alles für Ihr Badezimmer!",
-            "metaDescription": "Badarmaturen Shop - Hier findest du alles, was du für dein Bad brauchst! Armaturen, Duschköpfe, Brausen und mehr.",
+            "title": "Shop für Badarmaturen: Alles für Ihr Bad!",
+            "metaDescription": "Badarmaturen Shop - Hier findest du alles für dein Bad! Armaturen, Duschköpfe, Brausen, Thermostate, Waschbecken und mehr.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Badarmaturen Shop",
-            "metaDescription": "In unserem Shop findest du eine große Auswahl an Badarmaturen. Von klassischen Designs bis hin zu modernen Armaturen ist für jeden Geschmack etwas dabei.",
+            "title": "Bad-Armaturen-Shop",
+            "metaDescription": "In unserem Shop findest du eine große Auswahl an Armaturen für das Bad. Für jeden Geschmack ist etwas dabei, vom klassischen Design bis zur modernen Armatur.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Badarmaturen manufacturer",
-            "metaDescription": "Badarmaturen-Hersteller bietet eine große Auswahl an hochwertigen Badarmaturen für jeden Geschmack.",
+            "title": "Hersteller von Badarmaturen",
+            "metaDescription": "Alle Hersteller von Badarmaturen und Badzubehör auf einen Blick. Finden Sie das richtige Produkt vom richtigen Hersteller für Ihr Badezimmer.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Badarmaturen - hochwertige Badarmaturen für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Auswahl an Badarmaturen. Finde die perfekte $KATEGORIE für dein Badezimmer.",
+        "defaultTitle": "$PRODUKT | Badarmaturen Shop",
+        "defaultMetaDescription": "$PRODUKTE VON $HERSTELLER - die beste Auswahl an Badezimmerarmaturen. $KATEGORIE für dein Bad. Günstig bestellen in Badarmaturen Shop.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Badarmaturen $KATEGORIE – Deine Auswahl bei uns!",
-        "defaultMetaDescription": "Badarmaturen in höchster Qualität. Finden Sie die passende Armatur für Ihr Bad. $KATEGORIE",
+        "defaultTitle": "$KATEGORIE | Badarmaturen Shop",
+        "defaultMetaDescription": "$KATEGORIE - Badarmaturen in höchster Qualität. Finden Sie die passende Armatur und Zubehör für Ihr Bad in der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Badarmaturen von $HERSTELLER - hochwertige Sanitärprodukte für Ihr Zuhause. Jetzt online bestellen!",
+        "defaultTitle": "$HERSTELLER",
+        "defaultMetaDescription": "Badarmaturen und -zubehör von $HERSTELLER - hochwertige Sanitärprodukte für Ihr Zuhause. Bestellen Sie jetzt online! Schnelle Lieferung.",
         "defaultRobots": "index, follow",
         "brands": [
             {
