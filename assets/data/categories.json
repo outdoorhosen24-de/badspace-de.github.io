@@ -2,14 +2,14 @@
     {
         "key": "duschzubehör",
         "name": "Duschzubehör",
-        "slug": "duschzubehor",
+        "slug": "duschzubehoer",
         "productCategory": "Duschzubehör",
         "subCategories": []
     },
     {
         "key": "duschschläuche & brauseschläuche",
         "name": "Duschschläuche & Brauseschläuche",
-        "slug": "duschschlauche-brauseschlauche",
+        "slug": "duschschlaeuche-brauseschlaeuche",
         "productCategory": "Duschschläuche & Brauseschläuche",
         "subCategories": []
     },
@@ -37,7 +37,7 @@
     {
         "key": "ersatzteile für armaturen",
         "name": "Ersatzteile für Armaturen",
-        "slug": "ersatzteile-fur-armaturen",
+        "slug": "ersatzteile-fuer-armaturen",
         "productCategory": "Ersatzteile für Armaturen",
         "subCategories": []
     },
@@ -58,7 +58,7 @@
     {
         "key": "siphons für dusch-abläufe",
         "name": "Siphons für Dusch-Abläufe",
-        "slug": "siphons-fur-dusch-ablaufe",
+        "slug": "siphons-fuer-dusch-ablaeufe",
         "productCategory": "Siphons für Dusch-Abläufe",
         "subCategories": []
     },
@@ -86,21 +86,21 @@
     {
         "key": "zubehör für armaturen",
         "name": "Zubehör für Armaturen",
-        "slug": "zubehor-fur-armaturen",
+        "slug": "zubehoer-fuer-armaturen",
         "productCategory": "Zubehör für Armaturen",
         "subCategories": []
     },
     {
         "key": "weiteres zubehör für armaturen",
         "name": "Weiteres Zubehör für Armaturen",
-        "slug": "weiteres-zubehor-fur-armaturen",
+        "slug": "weiteres-zubehoer-fuer-armaturen",
         "productCategory": "Weiteres Zubehör für Armaturen",
         "subCategories": []
     },
     {
         "key": "weiteres duschzubehör",
         "name": "Weiteres Duschzubehör",
-        "slug": "weiteres-duschzubehor",
+        "slug": "weiteres-duschzubehoer",
         "productCategory": "Weiteres Duschzubehör",
         "subCategories": []
     },
@@ -128,21 +128,21 @@
     {
         "key": "siphons für waschbecken",
         "name": "Siphons für Waschbecken",
-        "slug": "siphons-fur-waschbecken",
+        "slug": "siphons-fuer-waschbecken",
         "productCategory": "Siphons für Waschbecken",
         "subCategories": []
     },
     {
         "key": "duschpaneele & duschsäulen",
         "name": "Duschpaneele & Duschsäulen",
-        "slug": "duschpaneele-duschsaulen",
+        "slug": "duschpaneele-duschsaeulen",
         "productCategory": "Duschpaneele & Duschsäulen",
         "subCategories": []
     },
     {
         "key": "sanitärwerkzeuge",
         "name": "Sanitärwerkzeuge",
-        "slug": "sanitarwerkzeuge",
+        "slug": "sanitaerwerkzeuge",
         "productCategory": "Sanitärwerkzeuge",
         "subCategories": []
     },
@@ -163,7 +163,7 @@
     {
         "key": "siphon-zubehör",
         "name": "Siphon-Zubehör",
-        "slug": "siphon-zubehor",
+        "slug": "siphon-zubehoer",
         "productCategory": "Siphon-Zubehör",
         "subCategories": []
     },
@@ -177,21 +177,21 @@
     {
         "key": "siphonverlängerungen",
         "name": "Siphonverlängerungen",
-        "slug": "siphonverlangerungen",
+        "slug": "siphonverlaengerungen",
         "productCategory": "Siphonverlängerungen",
         "subCategories": []
     },
     {
         "key": "siphons für spüle",
         "name": "Siphons für Spüle",
-        "slug": "siphons-fur-spule",
+        "slug": "siphons-fuer-spuele",
         "productCategory": "Siphons für Spüle",
         "subCategories": []
     },
     {
         "key": "sanitärzubehör",
         "name": "Sanitärzubehör",
-        "slug": "sanitarzubehor",
+        "slug": "sanitaerzubehoer",
         "productCategory": "Sanitärzubehör",
         "subCategories": []
     },
@@ -205,7 +205,7 @@
     {
         "key": "pömpel",
         "name": "Pömpel",
-        "slug": "pompel",
+        "slug": "poempel",
         "productCategory": "Pömpel",
         "subCategories": []
     },
@@ -219,14 +219,14 @@
     {
         "key": "teflonbänder & fäden",
         "name": "Teflonbänder & Fäden",
-        "slug": "teflonbander-faden",
+        "slug": "teflonbaender-faeden",
         "productCategory": "Teflonbänder & Fäden",
         "subCategories": []
     },
     {
         "key": "siphons für badewannen-abläufe",
         "name": "Siphons für Badewannen-Abläufe",
-        "slug": "siphons-fur-badewannen-ablaufe",
+        "slug": "siphons-fuer-badewannen-ablaeufe",
         "productCategory": "Siphons für Badewannen-Abläufe",
         "subCategories": []
     },
@@ -261,21 +261,21 @@
     {
         "key": "siphonbögen",
         "name": "Siphonbögen",
-        "slug": "siphonbogen",
+        "slug": "siphonboegen",
         "productCategory": "Siphonbögen",
         "subCategories": []
     },
     {
         "key": "siphonanschlüsse",
         "name": "Siphonanschlüsse",
-        "slug": "siphonanschlusse",
+        "slug": "siphonanschluesse",
         "productCategory": "Siphonanschlüsse",
         "subCategories": []
     },
     {
         "key": "sanitärhanf",
         "name": "Sanitärhanf",
-        "slug": "sanitarhanf",
+        "slug": "sanitaerhanf",
         "productCategory": "Sanitärhanf",
         "subCategories": []
     },
